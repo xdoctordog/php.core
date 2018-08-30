@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<documents>
+    <document>
+        <user>Bill Dautrive</user>
+        <email>bill.dautrive@gmail.com</email>
+    </document>
+    <document>
+        <user>Hank Hill</user>
+        <email>hank.hill@gmail.com</email>
+    </document>
+    <document>
+        <user>Dale Gribble</user>
+        <email>dale.gribble@gmail.com</email>
+    </document>
+    <document>
+        <user>Peggy Hill</user>
+        <email>peggy.hill@gmail.com</email>
+    </document>
+    <document>
+        <user>Bobby Hill</user>
+        <email>bobby.hill@gmail.com</email>
+    </document>
+    <document>
+        <user>John Red Corn</user>
+        <email>john.red.corn@gmail.com</email>
+    </document>
+</documents>
