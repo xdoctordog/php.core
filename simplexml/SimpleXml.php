@@ -1,6 +1,6 @@
 <?php
 
-$fileName = 'small.xml';
+$fileName = 'simplexml/small.xml';
 
 $fileXml = simplexml_load_file($fileName);
 
@@ -33,7 +33,7 @@ $xmlStr = '<documents>
     </document>
     </documents>';
 
-$xmlContent = file_get_contents('created.xml');
+$xmlContent = file_get_contents('simplexml/created.xml');
 
 $sXml = new SimpleXMLElement($xmlContent);
 
@@ -46,6 +46,28 @@ $sXml->document->addChild('phone', '+375 33 000 00 00');
  * Adding new document
  */
 $sXml->addChild('document', '');
+
+
+var_dump([
+  '$sXml->count()' => $sXml->count()
+]);
+
+var_dump([
+  '$sXml->getDocNamespaces()' => $sXml->getDocNamespaces()
+]);
+
+var_dump([
+  '$sXml->getName()' => $sXml->getName()
+]);
+
+// Empty String
+var_dump([
+  '$sXml->documents->getName()' => $sXml->documents->getName()
+]);
+
+var_dump([
+  '$sXml->children()[0]->getName()' => $sXml->children()[0]->getName()
+]);
 
 foreach ($sXml->children() as $child) {
   $hasAttribute = false;
@@ -70,6 +92,8 @@ foreach ($sXml->children() as $child) {
   }
 };
 
-$sXml->saveXML($newFileName = 'created.xml');
+$sXml->saveXML($newFileName = 'simplexml/created.xml');
 
 var_dump($sXml->asXML());
+//==============================================================================
+
