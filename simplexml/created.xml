@@ -40,7 +40,7 @@
         <phone>+375 33 000 00 00</phone>
         <phone>+375 33 000 00 00</phone>
         <phone>+375 33 000 00 00</phone>
-    </document>
+    <phone>+375 33 000 00 00</phone></document>
     <document is_new="true">
         <user>Liu Ann Pletter</user>
         <email>liu.ann.pletter@gmail.com</email>
@@ -171,4 +171,4 @@
         <email>liu.ann.pletter@gmail.com</email>
         <phone>+375 33 123 23 31</phone>
     </document>
-</documents>
+<document is_new="true"><user>Liu Ann Pletter</user><email>liu.ann.pletter@gmail.com</email><phone>+375 33 123 23 31</phone></document></documents>
