@@ -12,5 +12,6 @@
 
 //require 'error_handler.php';
 
-require 'rawcookies.php';
+//require 'rawcookies.php';
 
+require 'complex_objects_in_session.php';
