@@ -14,4 +14,7 @@
 
 //require 'rawcookies.php';
 
-require 'complex_objects_in_session.php';
+//require 'complex_objects_in_session.php';
+
+require 'email_sending/email_send.php';
+
