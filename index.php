@@ -16,5 +16,7 @@
 
 //require 'complex_objects_in_session.php';
 
-require 'email_sending/email_send.php';
+//require 'email_sending/email_send.php';
+//require 'email_sending/email_send_b.php';
+require 'email_sending/email_send_c.php';
 
