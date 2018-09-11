@@ -18,6 +18,10 @@
 
 //require 'email_sending/email_send.php';
 
+//require 'email_sending/email_send_b.php';
+
+//require 'email_sending/email_send_c.php';
+
 //require 'php_errors/php_errors.php';
 
 //require 'iterable/iterable.php';
