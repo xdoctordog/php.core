@@ -16,5 +16,10 @@
 
 //require 'complex_objects_in_session.php';
 
-require 'email_sending/email_send.php';
+//require 'email_sending/email_send.php';
 
+//require 'php_errors/php_errors.php';
+
+//require 'iterable/iterable.php';
+
+require 'iterable/generator.php';
