@@ -26,4 +26,8 @@
 
 //require 'iterable/iterable.php';
 
-require 'iterable/generator.php';
+//require 'iterable/generator.php';
+
+//require 'closure/closure_function_arguments.php';
+
+require 'isset/multipleArguments.php';
