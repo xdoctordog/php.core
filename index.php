@@ -30,4 +30,6 @@
 
 //require 'closure/closure_function_arguments.php';
 
-require 'isset/multipleArguments.php';
+//require 'isset/multipleArguments.php';
+
+require 'namespace/namespace.php';
