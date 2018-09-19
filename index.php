@@ -32,4 +32,9 @@
 
 //require 'isset/multipleArguments.php';
 
-require 'namespace/namespace.php';
+//require 'namespace/namespace.php';
+
+//require 'iterable/iterables.php';
+
+require 'iterable/iterablesB.php';
+
