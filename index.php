@@ -20,6 +20,8 @@ if (false) {
   require 'namespace/namespace.php';
   require 'iterable/iterables.php';
   require 'iterable/iterablesB.php';
+  require 'domDocumentXml/getXmlDomDocument.php';
 }
 
-require 'iterable/iterablesB.php';
+require 'domDocumentXml/simple_xml_load_string.php';
+
