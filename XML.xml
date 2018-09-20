@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note Addtional="Info">
+    <to>Dzmitriy</to>
+    <from>Brother</from>
+    <heading>Hello, man</heading>
+    <body>I am about our meeting call today.</body>
+    <Child>child</Child>
+    <score point="88">77</score>
+</note>
