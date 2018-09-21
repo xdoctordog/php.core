@@ -25,7 +25,8 @@ if (false) {
   require 'array_iterator/array_iterator.php';
   require 'domDocumentXml/parse_with_SimpleXML.php';
   require 'domDocumentXml/parse_with_DOMDocument.php';
+  require 'file_upload/form.php';
 }
 
-  require 'file_upload/form.php';
+  require 'passwords/password_hash.php';
 
