@@ -12,7 +12,7 @@ var_dump([
 $options = [
   'cost' => 12,
 ];
-$passwordHashBcrypt = password_hash("rasmuslerdorf", PASSWORD_BCRYPT, $options);
+$passwordHashBcrypt = password_hash($password, PASSWORD_BCRYPT, $options);
 var_dump([
     '$passwordHashBcrypt' => $passwordHashBcrypt,
 ]);
@@ -24,8 +24,6 @@ $cost = 4;
 do {
   $cost++;
   $start = microtime(true);
-  var_dump($start);
-  
   password_hash($password, PASSWORD_BCRYPT, ["cost" => $cost]);
   $end = microtime(true);
 } while (($end - $start) < $timeTarget);
