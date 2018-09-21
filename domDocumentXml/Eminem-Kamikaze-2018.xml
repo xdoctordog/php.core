@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Album>"Kamikaze"
+    <Track length="0:05:37" bitrate="320kb/s" channels="2" order="1">The Ringer
+        <Note>"The Ringer" is a song by American rapper Eminem from his album Kamikaze (2018). It debuted in the top 10
+            in Australia, Canada, Finland, Ireland, New Zealand, Norway, Portugal, Sweden, Switzerland, the United
+            Kingdom, and the United States. It contains an interpolation from "Ooouuu", written by Matthew Jacobson and
+            Katorah Marrero, as performed by Young M.A.
+        </Note>
+        <writers>
+            <writer>Ray Fraser</writer>
+            <writer>Matthew Jacobson</writer>
+            <writer>Katorah Marrero</writer>
+            <writer>Marshall Mathers</writer>
+            <writer>Luis Resto</writer>
+            <writer>Ronald Spence, Jr.</writer>
+        </writers>
+        <producers>
+            <producer>Illa da Producer</producer>
+            <producer>Ronny J</producer>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:03:46" bitrate="320kb/s" channels="2" order="2">"Greatest"
+        <writers>
+            <writer>Marshall Mathers</writer>
+            <writer>Jordan Carter</writer>
+            <writer>Kendrick Lamar Duckworth</writer>
+            <writer>Asheton Hogan</writer>
+            <writer>Jordan Jenks</writer>
+            <writer>Mathers</writer>
+            <writer>Jeremy Miller</writer>
+            <writer>Anthony Tiffith</writer>
+            <writer>Michael Williams II</writer>
+            <writer>Symere Woods</writer>
+        </writers>
+        <producers>
+            <producer>Mike Will Made It</producer>
+            <producer>Jeremy Miller</producer>
+        </producers>
+    </Track>
+    <Track length="0:04:04" bitrate="320kb/s" channels="2" order="3">"Lucky You" (featuring Joyner Lucas)
+        <writers>
+            <writer>Fraser</writer>
+            <writer>Gary Lucas</writer>
+            <writer>Mathers</writer>
+            <writer>Matthew Samuels</writer>
+            <writer>Jahaan Sweet</writer>
+        </writers>
+        <producers>
+            <producer>Boi-1da</producer>
+            <producer>Illa da Producer</producer>
+            <producer>Eminem</producer>
+            <producer>Jahaan Sweet</producer>
+        </producers>
+    </Track>
+    <Track length="0:00:35" bitrate="320kb/s" channels="2" order="4">"Paul" (skit; performed by Paul Rosenberg)
+        <writers>
+            <writer>Paul Rosenberg</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:03:42" bitrate="320kb/s" channels="2" order="5">"Normal"
+        <writers>
+            <writer>Erik Bodin</writer>
+            <writer>Fraser</writer>
+            <writer>Larry Griffin, Jr.</writer>
+            <writer>Mathers</writer>
+            <writer>Yukimi Nagano</writer>
+            <writer>Maurice Nichols</writer>
+            <writer>R. Sheldon</writer>
+            <writer>Fredrik Wallin</writer>
+            <writer>Håkan Wirenstrand</writer>
+        </writers>
+        <producers>
+            <producer>Swish Allnet</producer>
+            <producer>Illa da Producer</producer>
+            <producer>LoneStarrMuzik</producer>
+            <producer>S1</producer>
+        </producers>
+    </Track>
+
+    <Track length="0:00:49" bitrate="320kb/s" channels="2" order="6">"Em Calls Paul" (skit)
+        <writers>
+            <writer>Mathers</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:05:09" bitrate="320kb/s" channels="2" order="7">"Stepping Stone"
+        <writers>
+            <writer>Mathers</writer>
+            <writer>L. Resto</writer>
+            <writer>Mario Resto</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+            <producer>L. Resto</producer>
+        </producers>
+    </Track>
+
+    <Track length="0:04:48" bitrate="320kb/s" channels="2" order="8">"Not Alike" (featuring Royce da 5'9)
+        <writers>
+            <writer>Brytavious Chambers</writer>
+            <writer>Mathers</writer>
+            <writer>Ryan Montgomery</writer>
+            <writer>Spence, Jr.</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+            <producer>Tay Keith</producer>
+            <producer>Ronny J</producer>
+        </producers>
+    </Track>
+
+    <Track length="0:03:36" bitrate="320kb/s" channels="2" order="9">"Kamikaze"
+        <writers>
+            <writer>Bobby Ervin</writer>
+            <writer>Mathers</writer>
+            <writer>Dwayne Simon</writer>
+            <writer>James Smith</writer>
+            <writer>Timothy Suby</writer>
+        </writers>
+        <producers>
+            <producer>Suby</producer>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:04:22" bitrate="320kb/s" channels="2" order="10">"Fall"
+        <writers>
+            <writer>B. J. Burton</writer>
+            <writer>Mathers</writer>
+            <writer>L. Resto</writer>
+            <writer>Justin Vernon</writer>
+            <writer>Williams</writer>
+        </writers>
+        <producers>
+            <producer>Mike Will Made It</producer>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:02:30" bitrate="320kb/s" channels="2" order="11">"Nice Guy" (featuring Jessie Reyez)
+        <writers>
+            <writer>Fred Ball Mathers</writer>
+            <writer>L. Griffin, Jr.</writer>
+            <writer>Mathers</writer>
+            <writer>L. Resto</writer>
+            <writer>Jessica Reyez</writer>
+        </writers>
+        <producers>
+            <producer>Ball</producer>
+            <producer>S1</producer>
+            <producer>Eminem</producer>
+        </producers>
+    </Track>
+    <Track length="0:02:22" bitrate="320kb/s" channels="2" order="11">"Good Guy" (featuring Jessie Reyez)
+        <writers>
+            <writer>Norio Aono</writer>
+            <writer>Fraser</writer>
+            <writer>Lisa Gomamoto</writer>
+            <writer>Mathers</writer>
+            <writer>Reyez</writer>
+            <writer>Yutaka Yamada</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+            <producer>Illa da Producer</producer>
+        </producers>
+    </Track>
+    <Track length="0:02:22" bitrate="320kb/s" channels="2" order="12">"Venom" (Music from the Motion Picture)
+        <writers>
+            <writer>Mathers</writer>
+            <writer>L. Resto</writer>
+        </writers>
+        <producers>
+            <producer>Eminem</producer>
+            <producer>L. Resto</producer>
+        </producers>
+    </Track>
+</Album>

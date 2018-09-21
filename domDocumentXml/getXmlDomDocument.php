@@ -28,5 +28,6 @@ $xmlTrackB->setAttribute("channels", "2");
 $xmlAlbum->appendChild($xmlTrackB);
 
 $xml->appendChild($xmlAlbum);
-
 print $xml->saveXML();
+$xml->save('Eminem-Kamikaze.xml');
+
