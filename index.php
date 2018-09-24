@@ -1,5 +1,10 @@
 <?php
 
+spl_autoload_register(function(){
+  require 'inheritance/BaseClass.php';
+  require 'inheritance/SimpleClass.php';
+});
+
 if (false) {
   require 'simplexml/SimpleXml.php';
   require 'domDocumentXml/domDocumentXml.php';
@@ -26,7 +31,7 @@ if (false) {
   require 'domDocumentXml/parse_with_SimpleXML.php';
   require 'domDocumentXml/parse_with_DOMDocument.php';
   require 'file_upload/form.php';
+  require 'passwords/password_hash.php';
 }
 
-  require 'passwords/password_hash.php';
-
+  require 'inheritance/main.php';
