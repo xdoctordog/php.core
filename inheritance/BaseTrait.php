@@ -2,33 +2,16 @@
 
 namespace inheritance;
 
-var_dump(BaseClass::$count);
+trait BaseTrait {
 
-define('CONST_BaseClass', 'CONST of Base Class');
-define('small_CONST_BaseClass', 'small CONST of Base Class');
-define('array_CONST_BaseClass', ['array CONST of Base Class', 'array CONST of Base Class']);
+//    public $publicString = 'TRAIT i am Base public';
+    protected $protectedString = 'TRAIT i am Base protected';
+    private $privateString = 'TRAIT i am Base private';
 
-class BaseClass
-{
-    public static $count = 0;
+//    public static $publicStaticString = 'TRAIT i am Base Static public';
+//    protected static $protectedStaticString = 'TRAIT i am Base Static protected';
 
-    public const publicConstBase = 'public constant inside of Base';
-    public const publicConstArrayBase = ['public constant as array inside of Base', 'some 2'];
-
-    protected const protectedConstBase = 'protected constant inside of Base';
-    protected const protectedConstArrayBase = ['protected constant as array inside of Base', 'some 2'];
-
-    private const privateConstBase = 'PRIVATE constant inside of Base';
-    private const privateConstArrayBase = ['PRIVATE constant as array inside of Base', 'some 2'];
-
-    public $publicString = 'i am Base public';
-    protected $protectedString = 'i am Base protected';
-    private $privateString = 'i am Base private';
-
-    public static $publicStaticString = 'i am Base Static public';
-    protected static $protectedStaticString = 'i am Base Static protected';
-    private static $privateStaticString = 'i am Base Static private';
-
+    private static $privateStaticString = 'TRAIT i am Base Static private';
 
     public function publicMethod()
     {
@@ -118,9 +101,4 @@ class BaseClass
 
         return __METHOD__;
     }
-
 }
-
-BaseClass::$count++;
-
-

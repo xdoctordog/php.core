@@ -1,8 +1,22 @@
 <?php
 
+//phpinfo();
+//exit;
+
 spl_autoload_register(function(){
-  require 'inheritance/BaseClass.php';
-  require 'inheritance/SimpleClass.php';
+    require_once 'inheritance/BaseClass.php';
+    require_once 'inheritance/SimpleClass.php';
+    require_once 'inheritance/BaseInterface.php';
+    require_once 'inheritance/SimpleImplemented.php';
+    require_once 'inheritance/BaseTrait.php';
+    require_once 'inheritance/BaseTraited.php';
+
+//    require 'inheritance/BaseClass.php';
+//    require 'inheritance/SimpleClass.php';
+//    require 'inheritance/BaseInterface.php';
+//    require 'inheritance/SimpleImplemented.php';
+//    require 'inheritance/BaseTrait.php';
+//    require 'inheritance/BaseTraited.php';
 });
 
 if (false) {
