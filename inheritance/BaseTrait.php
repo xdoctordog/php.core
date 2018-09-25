@@ -4,14 +4,12 @@ namespace inheritance;
 
 trait BaseTrait {
 
-//    public $publicString = 'TRAIT i am Base public';
-    protected $protectedString = 'TRAIT i am Base protected';
-    private $privateString = 'TRAIT i am Base private';
-
-//    public static $publicStaticString = 'TRAIT i am Base Static public';
-//    protected static $protectedStaticString = 'TRAIT i am Base Static protected';
-
-    private static $privateStaticString = 'TRAIT i am Base Static private';
+//    public $publicString = 'BaseTrait $publicString';
+//    protected $protectedString = 'BaseTrait $protectedString';
+//    private $privateString = 'BaseTrait $privateString';
+//    private static $privateStaticString = 'BaseTrait $privateStaticString';
+//    public static $publicStaticString = 'BaseTrait $publicStaticString';
+//    protected static $protectedStaticString = 'BaseTrait $protectedStaticString';
 
     public function publicMethod()
     {

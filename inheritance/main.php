@@ -80,8 +80,8 @@ var_dump(
     [
         '$basetTraitedObject' => $basetTraitedObject,
         '$basetTraitedObject->publicMethod()' => $basetTraitedObject->publicMethod(),
-        '$basetTraitedObject::getPrivateStaticString()' => $basetTraitedObject::getPrivateStaticString(),
-        '$basetTraitedObject::getProtectedStaticString()' => $basetTraitedObject::getProtectedStaticString(),
+//        '$basetTraitedObject::getPrivateStaticString()' => $basetTraitedObject::getPrivateStaticString(),
+//        '$basetTraitedObject::getProtectedStaticString()' => $basetTraitedObject::getProtectedStaticString(),
     ]
 );
 

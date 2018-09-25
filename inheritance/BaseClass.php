@@ -21,13 +21,16 @@ class BaseClass
     private const privateConstBase = 'PRIVATE constant inside of Base';
     private const privateConstArrayBase = ['PRIVATE constant as array inside of Base', 'some 2'];
 
-    public $publicString = 'i am Base public';
-    protected $protectedString = 'i am Base protected';
-    private $privateString = 'i am Base private';
 
-    public static $publicStaticString = 'i am Base Static public';
-    protected static $protectedStaticString = 'i am Base Static protected';
-    private static $privateStaticString = 'i am Base Static private';
+
+
+
+    public $publicString = 'BaseClass $publicString';
+    protected $protectedString = 'BaseClass $protectedString';
+    private $privateString = 'BaseClass $privateString';
+    private static $privateStaticString = 'BaseClass $privateStaticString';
+    public static $publicStaticString = 'BaseClass $publicStaticString';
+    protected static $protectedStaticString = 'BaseClass $protectedStaticString';
 
 
     public function publicMethod()

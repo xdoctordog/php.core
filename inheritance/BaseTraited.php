@@ -5,21 +5,11 @@ namespace inheritance;
 class BaseTraited extends BaseClass {
     use BaseTrait;
 
-
-    public static function getPrivateStaticString()
-    {
-        return self::$privateStaticString;
-    }
-
-    public static function getProtectedStaticString()
-    {
-        return self::$protectedStaticString;
-    }
-
-//    public function publicMethod()
-//    {
-//
-//        return __METHOD__;
-//    }
+    public $publicString = 'BaseTraited $publicString';
+    protected $protectedString = 'BaseTraited $protectedString';
+    private $privateString = 'BaseTraited $privateString';
+    private static $privateStaticString = 'BaseTraited $privateStaticString';
+    public static $publicStaticString = 'BaseTraited $publicStaticString';
+    protected static $protectedStaticString = 'BaseTraited $protectedStaticString';
 
 }
