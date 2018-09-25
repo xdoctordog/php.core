@@ -46,6 +46,7 @@ if (false) {
   require 'domDocumentXml/parse_with_DOMDocument.php';
   require 'file_upload/form.php';
   require 'passwords/password_hash.php';
+  require 'inheritance/main.php';
 }
 
-  require 'inheritance/main.php';
+  require 'constants/constants.php';
