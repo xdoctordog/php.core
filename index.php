@@ -47,6 +47,7 @@ if (false) {
   require 'file_upload/form.php';
   require 'passwords/password_hash.php';
   require 'inheritance/main.php';
+  require 'constants/constants.php';
 }
 
-  require 'constants/constants.php';
+  require 'inheritanceB/inheritanceB.php';
